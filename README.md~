@@ -1,0 +1,8 @@
+Python scripts for processing data in my thesis
+======================
+
+Each of the following files correspond to an experiment and more specifically:
+-exp_compare_vs_Random.py
+- exp_assign_time_budget.py
+- exp_assign_generations_budget.py
+- exp_compare_MOEAs.py
